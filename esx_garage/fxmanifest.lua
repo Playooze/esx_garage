@@ -3,9 +3,9 @@ fx_version "adamant"
 game "gta5"
 
 
-author "Playooze#4977"
+author "Playooze"
 version "1.0"
-description "Garage with interior and stashs"
+description "Garage with interior and stash"
 
 
 server_scripts {
@@ -20,3 +20,4 @@ client_scripts {
 shared_script "configuration/*.lua"
 
 dependency "es_extended"
+dependency "cd_drawtextui"
